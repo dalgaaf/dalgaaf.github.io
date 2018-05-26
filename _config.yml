@@ -8,13 +8,12 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Danny Al-Gaaf # add your name
-author-img:  # add your photo
+author-img: dalgaaf_avatar.jpg # add your photo
 about-author: TBA # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+social-twitter: dannyalgaaf # add your Twitter handle
 social-github: dalgaaf # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-linkedin: dalgaaf # add your Linkedin handle
+social-email: danny.al-gaaf@bisect.de #add your Email address
 
 # Build Settings
 markdown: kramdown
